@@ -1,0 +1,13 @@
+logs/
+.venv/
+.cursorrules
+logs/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+data/
+.DS_Store
+*.parquet

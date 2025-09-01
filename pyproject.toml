@@ -1,0 +1,33 @@
+[project]
+name = "seadronessee-mot"
+version = "0.1.0"
+description = "SeaDronesSee Multiple Object Tracking Project"
+authors = [
+    {name = "Your Name", email = "your.email@example.com"}
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "duckdb>=1.3.2",
+    "pandas>=2.3.2",
+    "pyarrow>=21.0.0",
+    "opencv-python>=4.12.0",
+    "numpy>=2.2.6",
+    "faiss-cpu>=1.12.0",
+    "torch>=2.8.0",
+    "torchvision>=0.23.0",
+    "open-clip-torch>=3.1.0",
+    "tqdm>=4.67.1",
+    "streamlit>=1.49.1",
+]
+
+[tool.uv]
+dev-dependencies = [
+    "pytest",
+    "black",
+    "flake8",
+    "mypy",
+]
+
+
+

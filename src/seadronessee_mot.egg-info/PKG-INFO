@@ -1,3 +1,22 @@
+Metadata-Version: 2.4
+Name: seadronessee-mot
+Version: 0.1.0
+Summary: SeaDronesSee Multiple Object Tracking Project
+Author-email: Your Name <your.email@example.com>
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: duckdb>=1.3.2
+Requires-Dist: pandas>=2.3.2
+Requires-Dist: pyarrow>=21.0.0
+Requires-Dist: opencv-python>=4.12.0
+Requires-Dist: numpy>=2.2.6
+Requires-Dist: faiss-cpu>=1.12.0
+Requires-Dist: torch>=2.8.0
+Requires-Dist: torchvision>=0.23.0
+Requires-Dist: open-clip-torch>=3.1.0
+Requires-Dist: tqdm>=4.67.1
+Requires-Dist: streamlit>=1.49.1
+
 # SeaDronesSee MOT Project
 
 A comprehensive Multiple Object Tracking (MOT) project for the SeaDronesSee dataset, optimized for re-identification (re-ID) and cross-video association using embeddings and vector search.
