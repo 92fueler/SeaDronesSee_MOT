@@ -1,8 +1,0 @@
-README.md
-pyproject.toml
-src/convert_to_parquet/processing_script.py
-src/seadronessee_mot.egg-info/PKG-INFO
-src/seadronessee_mot.egg-info/SOURCES.txt
-src/seadronessee_mot.egg-info/dependency_links.txt
-src/seadronessee_mot.egg-info/requires.txt
-src/seadronessee_mot.egg-info/top_level.txt

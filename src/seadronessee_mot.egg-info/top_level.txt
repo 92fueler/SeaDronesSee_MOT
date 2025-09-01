@@ -1,2 +1,0 @@
-convert_to_parquet
-duckdb
